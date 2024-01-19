@@ -1,0 +1,9 @@
+# Exclude compiled Java class files
+*.class
+
+# Exclude Eclipse settings files
+.settings/
+
+# Exclude Eclipse project file
+.project
+
